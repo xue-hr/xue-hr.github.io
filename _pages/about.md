@@ -16,9 +16,23 @@ My research interests are in causal inference, high-dimensional analysis, and st
 
 Publications
 =====
-+ **H. Xue** and W. Pan (2020+). [Inferring causal direction between two traits in the presence of horizontal pleiotropy with GWAS summary data](https://www.biorxiv.org/content/10.1101/2020.09.02.280263v1.abstract), *PLoS Genetics*, accepted. 
-+ **H. Xue**, C. Wu, and W. Pan (2020). [Leveraging existing GWAS summary data of genetically correlated and uncorrelated traits to improve power for a new GWAS](https://doi.org/10.1002/gepi.22333), *Genetic Epidemiology, 44*(7), 717-732.
-+ **H. Xue**, W. Pan, and Alzheimer's Disease Neuroimaging Initiative. (2020). [Some statistical consideration in transcriptome-wide association studies](https://doi.org/10.1002/gepi.22274), *Genetic Epidemiology, 44*(3), 221-232.
+1. **H. Xue** and W. Pan (2020+). [Inferring causal direction between two traits in the presence of horizontal pleiotropy with GWAS summary data](https://www.biorxiv.org/content/10.1101/2020.09.02.280263v1.abstract), *PLoS Genetics*, accepted. 
+2. **H. Xue**, C. Wu, and W. Pan (2020). [Leveraging existing GWAS summary data of genetically correlated and uncorrelated traits to improve power for a new GWAS](https://doi.org/10.1002/gepi.22333), *Genetic Epidemiology, 44*(7), 717-732.
+3. **H. Xue**, W. Pan, and Alzheimer's Disease Neuroimaging Initiative. (2020). [Some statistical consideration in transcriptome-wide association studies](https://doi.org/10.1002/gepi.22274), *Genetic Epidemiology, 44*(3), 221-232.
+
+Teaching
+=====
+- **Instructor** 
+	- Introduction to Statistical Analysis (STAT 3011), *Fall 2019, University of Minnesota*
+- **Teaching Assistant** 
+	- Data Analysis (STAT 3022), *Fall 2017, University of Minnesota*
+	- Mathematical Analysis(B1), *Fall 2015, USTC*
+
+Honors and Awards
+=====
+- Bernard W. Lindgren Graduate Instructor Award, University of Minneosta, 2020
+- Beverly and Richard Fink Graduate Fellowship, University of Minnesota, 2016 & 2020
+- Outstanding Undergraduate Scholarship, USTC, 2012, 2013, 2014 & 2015
 
 <!---
 Submitted Manuscript
