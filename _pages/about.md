@@ -26,7 +26,7 @@ Teaching
 	- Introduction to Statistical Analysis (STAT 3011), *Fall 2019, University of Minnesota*
 - **Teaching Assistant** 
 	- Data Analysis (STAT 3022), *Fall 2017, University of Minnesota*
-	- Mathematical Analysis(B1), *Fall 2015, USTC*
+	- Mathematical Analysis (B1), *Fall 2015, USTC*
 
 Honors and Awards
 =====
