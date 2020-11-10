@@ -16,7 +16,7 @@ My research interests are in causal inference, high-dimensional analysis, and st
 
 Publications
 =====
-1. **H. Xue** and W. Pan (2020+). [Inferring causal direction between two traits in the presence of horizontal pleiotropy with GWAS summary data](https://www.biorxiv.org/content/10.1101/2020.09.02.280263v1.abstract), *PLoS Genetics*, accepted. 
+1. **H. Xue** and W. Pan (2020+). [Inferring causal direction between two traits in the presence of horizontal pleiotropy with GWAS summary data](https://doi.org/10.1371/journal.pgen.1009105), *PLoS Genetics*, accepted. 
 2. **H. Xue**, C. Wu, and W. Pan (2020). [Leveraging existing GWAS summary data of genetically correlated and uncorrelated traits to improve power for a new GWAS](https://doi.org/10.1002/gepi.22333), *Genetic Epidemiology, 44*(7), 717-732.
 3. **H. Xue**, W. Pan, and Alzheimer's Disease Neuroimaging Initiative. (2020). [Some statistical consideration in transcriptome-wide association studies](https://doi.org/10.1002/gepi.22274), *Genetic Epidemiology, 44*(3), 221-232.
 
